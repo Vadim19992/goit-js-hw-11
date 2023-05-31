@@ -1,0 +1,10 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+.search-form {
+  display: flex;
+  justify-content: center;
+  background-color: #398429;
+}
+
+.gallery {
+  display: flex;
+}/*# sourceMappingURL=index.css.map */
